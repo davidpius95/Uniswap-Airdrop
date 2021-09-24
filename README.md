@@ -1,3 +1,17 @@
+# generateMarkleTree Script.js Installation
+
+git init
+
+npm i merkletreejs
+
+node GeneratemarkleRoot.js
+
+
+
+
+
+
+
 # Uniswap-Airdrop
 
 This is uniswap-airdrop contract.
@@ -16,3 +30,9 @@ function merkleRoot() :This function  returns the merkle root of the merkle tree
 function isClaimed :  this function returns true if the index has been marked claimed.i.e seting an address to true so user dont recieve twice
 function claim : this function Verify the merkle proof,mark it claimed and send the token.
 function _setClaimed
+
+
+
+
+
+
